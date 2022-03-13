@@ -21,7 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+
   493  cd ../Desktop/
   494  cd taskleaf
   495  rails s
